@@ -1,0 +1,21 @@
+{
+  "name": "vue-cli-plugin-image-modernizer-example",
+  "version": "1.0.0",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.9.1",
+    "vue": "^3.0.7"
+  },
+  "devDependencies": {
+    "@vue-image-modernizer/vue-cli-plugin-image-modernizer": "~1.0.2",
+    "@vue/cli-plugin-babel": "~4.5.11",
+    "@vue/cli-service": "~4.5.11",
+    "@vue/compiler-sfc": "^3.0.7",
+    "webpack-image-resize-loader": "^4.0.0",
+    "webpack-image-srcset-loader": "^5.0.0"
+  },
+  "license": "MIT"
+}
