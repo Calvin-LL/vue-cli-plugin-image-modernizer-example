@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@vue-image-modernizer/vue-cli-plugin-image-modernizer": "^1.0.2",
-    "@vue/cli-plugin-babel": "^4.5.13",
+    "@vue/cli-plugin-babel": "^5.0.1",
     "@vue/cli-service": "^4.5.13",
     "@vue/compiler-sfc": "^3.2.2",
     "webpack-image-resize-loader": "^4.0.0",
